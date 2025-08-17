@@ -3,6 +3,7 @@
 2. Add dependencies:
    a. `source .venv/bin/activate`
    b. `pip install [library]`
+   c. `pip freeze > requirements.txt`
    c. requirements.txt is now updated!
 
 3. Run `make` or `make run` to run the application!
